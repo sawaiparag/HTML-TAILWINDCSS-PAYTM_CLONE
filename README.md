@@ -6,7 +6,7 @@
 
 This Page is also live on Netlify.
 
-[Link For Netlify](https://www.paytm.com-paragsawai.netlify.app/) 
+[Link For Netlify](https://paytm-paragsawai.netlify.app/) 
 
 ![Badge](https://img.shields.io/badge/Project%20About-PAYTM__CLONE-brightgreen)
 
