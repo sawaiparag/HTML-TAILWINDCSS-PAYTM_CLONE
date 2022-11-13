@@ -1,4 +1,4 @@
-# Project- PAYTM_ClONE
+# Project- PAYTM_ClONE (For Learning Purpose Only)
 ## This Project is all about Paytm and this all will be done only with  HTML & tailwindcss and this is fully responsive and live too.
 
 ## This can be only done under Guidance of Hitesh Chaudhary Sir.
